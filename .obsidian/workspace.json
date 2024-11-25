@@ -15,8 +15,8 @@
               "state": {
                 "file": "5 semestre/arquitectura/Grace Hopper.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Grace Hopper"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -49,14 +49,10 @@
             "id": "473a05bea00461b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "taller.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "taller"
+              "title": "New tab"
             }
           }
         ],
@@ -190,8 +186,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -218,8 +214,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-matrix:Obsidian Matrix": false,
-      "excel:Create Excel File": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -229,8 +223,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "473a05bea00461b1",
