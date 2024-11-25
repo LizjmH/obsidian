@@ -1,0 +1,8 @@
+{
+  "snippetsFile": "Snip me! |+| Snippet successfully replaced.\n-==-\n: |+| -\n-==-\n:: |+| hi\n-==-\ngraph |+| ```tikz\n\\newcommand{\\xmin}{-5} % x minimo\n\\newcommand{\\xmax}{5} % x maximo\n\\newcommand{\\ymin}{-5} % y minimo\n\\newcommand{\\ymax}{5} % y maximo\n\\begin{document}\n  \\begin{tikzpicture}\n\t\\draw[very thin,color=gray] (\\xmin,\\ymin) grid (\\xmax,\\ymax);\n\t\\draw[->] (\\xmin,0) -- (\\xmax,0) node[right] {$x$};\n\t\\draw[->] (0,\\ymin) -- (0,\\ymax) node[above] {$y$};\n\t\\foreach \\x in {\\xmin,...,\\xmax} \n\t\t\\draw (\\x,0.1) -- (\\x,-0.1) node[below] {\\x}; \n\t\\foreach \\y in {\\ymin,...,\\ymax} \n\t\t\\draw (0.1,\\y) -- (-0.1,\\y) node[left] {\\y};\n\t% a partir de aqui grafica\n\t\\draw[color=red] (2,-3) circle (3) node[right] {$PM(2,-3)$};\n  \\end{tikzpicture}\n\\end{document}\n```\n-==-\nc2 |+| ```start-multi-column    \nnumber of columns: 2\n```\n\n--- end-column ---\n\n--- end-multi-column",
+  "triggerOnSpace": "disabled",
+  "triggerOnEnter": "disabled",
+  "triggerOnTab": "disabled",
+  "snippetPartDivider": " |+| ",
+  "snippetDivider": "-==-"
+}

@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "c5cd48e9dbecf515",
+    "type": "split",
+    "children": [
+      {
+        "id": "d071cc7e670e2fb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9959b7c26b00881f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5 semestre/arquitectura/Grace Hopper.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Grace Hopper"
+            }
+          },
+          {
+            "id": "f69b9ed3ebb6a4e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 semestre/Guzman/Requerimentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requerimentos"
+            }
+          },
+          {
+            "id": "c3ff0dff1807ad9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "473a05bea00461b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "taller.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "taller"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bae3fed9667f87de",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e75290ea921d9b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb038ec53b520670",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8c1e8cb58b953551",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ea4ccf0e798b6b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.50260543823242
+  },
+  "right": {
+    "id": "833f9f3b1da8f446",
+    "type": "split",
+    "children": [
+      {
+        "id": "307a72a106c761bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14bf797f56219ec2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "taller.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for taller"
+            }
+          },
+          {
+            "id": "16ee1c50f60b1e67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "taller.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from taller"
+            }
+          },
+          {
+            "id": "a7dcb03adbe26122",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc24bfd7f9552efc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "taller.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of taller"
+            }
+          },
+          {
+            "id": "6a5a17883696a200",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "76a0822833390050",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
+      "excel:Create Excel File": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "473a05bea00461b1",
+  "lastOpenFiles": [
+    "attachments/Pasted image 20241102152148.png",
+    "attachments/Pasted image 20241102151723.png",
+    "attachments/Pasted image 20241102151527.png",
+    "attachments",
+    "taller.md",
+    "5 semestre/Guzman/Requerimentos.md",
+    "5 semestre/Guzman",
+    "5 semestre/arquitectura/Grace Hopper.md",
+    "5 semestre/arquitectura/Grace Hopper.png",
+    "5 semestre/arquitectura/Howard H. Aiken.md",
+    "5 semestre/arquitectura/Howard H. Aiken - Copy.md",
+    "5 semestre/arquitectura/Tarea.md",
+    "5 semestre/arquitectura/Drawing 2024-09-12 00.01.52.excalidraw.md",
+    "Ingles/Ingles.md",
+    "5 semestre/arquitectura",
+    "5 semestre",
+    "Ingles/attachments/Pasted image 20240722204053.png",
+    "Ingles/attachments/Pasted image 20240717204944.png",
+    "Ingles/attachments/Pasted image 20240717201551.png",
+    "Ingles/attachments/Pasted image 20240717200338.png",
+    "Ingles/attachments/Pasted image 20240717194154.png",
+    "Ingles/attachments",
+    "Ingles/Repasos.md",
+    "4 semestre/DB/Fundamentos de DB.md",
+    "4 semestre/Metodos Numericos/Metodos Numericos.md",
+    "4 semestre/Electronica/Principios electricos y aplicaciones.md",
+    "Pasted image 20240207113804.png",
+    "Pasted Image 20240206163707_821.png",
+    "apuntes.md",
+    "diagrams.md",
+    "4 semestre/DB/attachments/Fundamentos de DB 2024-04-22 11.06.54.excalidraw.md",
+    "4 semestre/DB/attachments/Fundamentos de DB 2024-04-26 10.08.32.excalidraw.md",
+    "4 semestre/DB/attachments",
+    "4 semestre/DB/Diodos 1N4004 y 1N4001.md",
+    "4 semestre/ed/Ecuacion Diferencial.md",
+    "4 semestre/SO/Practica de Virtualización de un SO.md",
+    "3 semestre/CALCULO VECTORIAL/Curvas Planas y Ecuaciones Parametricas/Ejercicio.md",
+    "Excalidraw/Drawing 2024-02-28 11.16.41.excalidraw.md",
+    "Ingles/exc/timeline verbal tenses.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "3 semestre/CALCULO VECTORIAL/Curvas Planas y Ecuaciones Parametricas/Ejemplo.md",
+    "3 semestre/CALCULO VECTORIAL/Curvas Planas y Ecuaciones Parametricas/Curvas Planas y Ecuaciones Parametricas.md",
+    "4 semestre/SO/Practica de Virtualización de un SO.odt",
+    "4 semestre/SO/attachments",
+    "4 semestre/SO",
+    "4 semestre/ed",
+    "INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas",
+    "Excalidraw/Untitled.canvas"
+  ]
+}
