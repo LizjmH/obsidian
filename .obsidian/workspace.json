@@ -49,10 +49,14 @@
             "id": "473a05bea00461b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5 semestre/Simulación/lavado.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lavado"
             }
           }
         ],
@@ -186,8 +190,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -205,12 +209,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +226,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "excel:Create Excel File": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "473a05bea00461b1",
   "lastOpenFiles": [
+    "Excel 2024-11-25 14.03.36.sheet.md",
+    "5 semestre/Simulación/lavado.md",
+    "5 semestre/Simulación",
+    "5 semestre",
     "attachments/Pasted image 20241102152148.png",
     "attachments/Pasted image 20241102151723.png",
     "attachments/Pasted image 20241102151527.png",
@@ -255,7 +265,6 @@
     "4 semestre/Metodos Numericos/Metodos Numericos.md",
     "4 semestre/Electronica/Principios electricos y aplicaciones.md",
     "Pasted image 20240207113804.png",
-    "Pasted Image 20240206163707_821.png",
     "apuntes.md",
     "diagrams.md",
     "4 semestre/DB/attachments/Fundamentos de DB 2024-04-22 11.06.54.excalidraw.md",
@@ -269,11 +278,8 @@
     "Ingles/exc/timeline verbal tenses.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "3 semestre/CALCULO VECTORIAL/Curvas Planas y Ecuaciones Parametricas/Ejemplo.md",
-    "3 semestre/CALCULO VECTORIAL/Curvas Planas y Ecuaciones Parametricas/Curvas Planas y Ecuaciones Parametricas.md",
     "4 semestre/SO/Practica de Virtualización de un SO.odt",
     "4 semestre/SO/attachments",
-    "4 semestre/SO",
-    "4 semestre/ed",
     "INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas",
     "Excalidraw/Untitled.canvas"
   ]
